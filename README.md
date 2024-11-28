@@ -3,6 +3,7 @@
 A responsive and feature-rich weather application built with React that fetches real-time weather data using the OpenWeatherMap API. The app provides weather details such as temperature, humidity, wind speed, and condition-specific icons for any city entered by the user.
 
 **Features**
+
 🌍 Search by City: Get weather updates for any city in the world.
 
 🌤️ Dynamic Weather Icons: Custom icons visually represent weather conditions (e.g., sunny, cloudy, rainy).
